@@ -14,13 +14,22 @@ The Toolkit for Pacing your Bike-Split in a long-distance Triathlon like an Iron
 ## Step 1 – „Your Data“
 - Fill in all your personal data.
 
+![Step 1 – „Your Data“](https://johannesheinrich.de/wp-content/uploads/Long-distance-Triathlon-Ironman-Bike-Split-Pacing-Your-Data.png)
+
 ## Step 2 – „Racetrack Data“
 - Make a detailed analysis of the official race track and break it down in as many logical sections as required.
 - Hint: Overall section number is limited to maximum 20.
+
+![Step 2 – „Racetrack Data“](https://johannesheinrich.de/wp-content/uploads/Long-distance-Triathlon-Ironman-Bike-Split-Pacing-Racetrack-Data-Ironman-Italy-1024x634.png)
+
 - Each section has to have: The section distance in kilometers, altitude difference andtThe amount of power output in percentage you plan to spend in this section based on your overall target racing/pacing power data
+
+![Step 2 – „Racetrack Data“](https://johannesheinrich.de/wp-content/uploads/Long-distance-Triathlon-Ironman-Bike-Split-Pacing-Racetrack-Data.png)
 
 ## Results – „Prediction / Forecast“
 This finally results in your first prediction and forecast. Now it is time to dream and play with all „Your Data“ and „Racetrack Data“ parameters.
+
+![Step 2 – „Racetrack Data“](https://johannesheinrich.de/wp-content/uploads/Long-distance-Triathlon-Ironman-Bike-Split-Pacing-Prediction.png)
 
 # More Details
 [For more details and better guidance follow up here](https://johannesheinrich.de/long-distance-triathlon-ironman-bike-split-pacing/)
