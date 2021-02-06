@@ -28,7 +28,7 @@ The Toolkit for Pacing your Bike-Split in a long-distance Triathlon like an Iron
 This finally results in your first prediction and forecast. Now it is time to dream and play with all „Your Data“ and „Racetrack Data“ parameters.
 
 # More Details
-[For more details and better guidance follow up here](https://johannesheinrich.de/long-distance-triathlon-ironman-bike-split-pacing/)
+[For more details and better guidance follow up here](https://www.johannesheinrich.de/posts/long-distance-triathlon-ironman-pacing-bike-split/)
 
 # Contributions
 Contributions are warmly welcome. Your feedback is highly appreciated!
@@ -42,4 +42,4 @@ No Guarantee. This tooling shall be utilised only for private purposes.
 
 License
 -------
-[MIT](https://github.com/JohannesHeinrich/long-distance-triathlon-ironman-bike-split-pacing/blob/main/LICENSE) &copy; 2020 Johannes Heinrich
+[MIT](https://github.com/johannesh83/long-distance-triathlon-ironman-bike-split-pacing/blob/main/LICENSE) &copy; 2020 Johannes Heinrich
